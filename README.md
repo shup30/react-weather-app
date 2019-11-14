@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This App Demo is hosted at https://reactjs-weatherapp.netlify.com
+
 
 ## Available Scripts
 
